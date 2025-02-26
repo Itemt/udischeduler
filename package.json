@@ -46,7 +46,10 @@
     "@biomejs/biome",
     "@clerk/shared",
     "@sentry/cli",
+    "bufferutil",
     "core-js",
-    "core-js-pure"
+    "core-js-pure",
+    "esbuild",
+    "sharp"
   ]
 }
